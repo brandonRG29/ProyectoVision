@@ -1,0 +1,2 @@
+Km: 10km
+V prom: 2m/s
